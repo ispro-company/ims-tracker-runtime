@@ -1,3 +1,10 @@
+[![Latest Release](http://github-release-version.herokuapp.com/github/isprocompany/ims-tracker-runtime/release.svg)](https://github.com/isprocompany/ims-tracker-runtime/releases/latest)
+[![Build Status](https://travis-ci.org/isprocompany/ims-tracker-runtime.svg?branch=master)](https://travis-ci.org/isprocompany/ims-tracker-runtime)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b008f8665fed427291a26d25c2fc9433)](https://www.codacy.com/app/groundnuty/ims-tracker-runtime?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=isprocompany/ims-tracker-runtime&amp;utm_campaign=Badge_Grade)
+[![Latest Docker Yag](https://images.microbadger.com/badges/version/isprocompany/ims-tracker-runtime.svg)](https://microbadger.com/images/isprocompany/ims-tracker-runtime "Get your own version badge on microbadger.com")
+[![Latest Docker Tag Details](https://images.microbadger.com/badges/image/isprocompany/ims-tracker-runtime.svg)](https://microbadger.com/images/isprocompany/ims-tracker-runtime "Get your own image badge on microbadger.com")
+[![Docker Pulls](https://img.shields.io/docker/pulls/isprocompany/ims-tracker-runtime.svg)](https://hub.docker.com/r/isprocompany/ims-tracker-runtime/)
+
 # Runtime environment for ims-tracker
 
 This repository provides runtime environment for building and running ims-tracker application.
